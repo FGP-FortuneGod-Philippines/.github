@@ -1,6 +1,13 @@
 # FGP FortuneGod Philippines Standard Conventional Commits
 The Conventional Commits specification is a lightweight convention on top of commit messages. It provides an easy set of rules for creating an explicit commit history
 
+# Branch Naming Convention
+In creating branches we strictly need to use kebab-case
+
+`hello-world`
+`this-is-component`
+`new-feature`
+
 ## General Commit
 
 `<type>(<optional scope>): <description>`
