@@ -4,9 +4,9 @@ The Conventional Commits specification is a lightweight convention on top of com
 # Branch Naming Convention
 In creating branches we strictly need to use kebab-case
 
-`hello-world`
-`this-is-component`
-`new-feature`
+-  `hello-world`
+-  `this-is-component`
+-  `new-feature`
 
 ## General Commit
 
